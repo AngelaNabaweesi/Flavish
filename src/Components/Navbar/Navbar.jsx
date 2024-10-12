@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Navbar.css'
-import FlavishLogo from '../../assets/FlavishLogo.png'
+import FlavishLogo from '../../assets/FlavishLogo.jpeg'
 import menu_icon from '../../assets/menu-icon.png'
 import { Link } from 'react-scroll'
 

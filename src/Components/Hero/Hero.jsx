@@ -10,7 +10,7 @@ const Hero = () => {
             <p>This school was founded by a former police officer whose goal was to help girl children in the community avoid early marriages. 
                 As for the boy children, he wanted to help them avoid bad gangs. And over all he and his team are trying to secure better 
                 and secure future for the children in the community</p>
-                <button className='btn'>Read More <img src={dark_arrow}/></button>
+                <a href="#contact"><button className='btn'>Place Order <img src={dark_arrow}/></button></a>
         </div>
     </div>
   )

@@ -1,11 +1,11 @@
 import React from 'react'
 import './Programs.css'
-import program_1 from '../../assets/program_1.jpg'
-import program_2 from '../../assets/program_2.jpg'
-import program_3 from '../../assets/program_3.jpg'
-import work from '../../assets/work.png'
-import church from '../../assets/church.png'
-import graduate from '../../assets/graduation.png'
+import program_1 from '../../assets/program_1.jpeg'
+import program_2 from '../../assets/program_2.jpeg'
+import program_3 from '../../assets/program_3.jpeg'
+import flower from '../../assets/flower.png'
+import cupid from '../../assets/cupid.png'
+import rings from '../../assets/rings.png'
 
 const Programs = () => {
   return (
@@ -13,21 +13,21 @@ const Programs = () => {
         <div className="program">
             <img src={program_1} alt="" />
             <div className="caption">
-              <img src={work} alt="" />
+              <img src={flower} alt="" />
               <p>Children at work</p>
             </div>
         </div>
         <div className="program"> 
             <img src={program_2} alt="" />
             <div className="caption">
-              <img src={church} alt="" />
+              <img src={cupid} alt="" />
               <p>Having fun while praising</p>
             </div>
         </div>
         <div className="program">
             <img src={program_3} alt="" />
             <div className="caption">
-              <img src={graduate} alt="" />
+              <img src={rings} alt="" />
               <p>Graduation Day</p>
             </div>
         </div>

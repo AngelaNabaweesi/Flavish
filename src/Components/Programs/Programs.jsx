@@ -14,21 +14,21 @@ const Programs = () => {
             <img src={program_1} alt="" />
             <div className="caption">
               <img src={flower} alt="" />
-              <p>Children at work</p>
+              <p>From Mother to Daughter</p>
             </div>
         </div>
         <div className="program"> 
             <img src={program_2} alt="" />
             <div className="caption">
               <img src={cupid} alt="" />
-              <p>Having fun while praising</p>
+              <p>Valentine's Day</p>
             </div>
         </div>
         <div className="program">
             <img src={program_3} alt="" />
             <div className="caption">
               <img src={rings} alt="" />
-              <p>Graduation Day</p>
+              <p>Traditional Marriage Ceremony</p>
             </div>
         </div>
 

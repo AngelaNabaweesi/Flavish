@@ -6,11 +6,10 @@ const Hero = () => {
   return (
     <div className='hero container'>
         <div className="hero-text">
-            <h1>A Community School In Kamuli, Jinja, Uganda</h1>
-            <p>This school was founded by a former police officer whose goal was to help girl children in the community avoid early marriages. 
-                As for the boy children, he wanted to help them avoid bad gangs. And over all he and his team are trying to secure better 
-                and secure future for the children in the community</p>
-                <a href="#contact"><button className='btn'>Place Order <img src={dark_arrow}/></button></a>
+            <h1>Flavish Hampers - Elevating Every Occasion</h1><br/>
+            <a href="#contact"><button className='btn'>Place Order <img src={dark_arrow}/></button></a><br/>
+            <p>Welcome to Flavish Hampers, where elegance meets thoughtfulness in every gift, floral arrangement, and decor piece. Life may be demanding, 
+              but we believe in making your loved ones feel special and valued with creations that inspire joy and beauty.</p>
         </div>
     </div>
   )

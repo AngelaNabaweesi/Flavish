@@ -36,15 +36,14 @@ const Contact = () => {
   return (
     <div className='contact' id="contact">
         <div className="contact-col" >
-            <h3>Send us a message <img src={msg_icon} alt="" /></h3>
+            <h3>Place your order <img src={msg_icon} alt="" /></h3>
             <p>
-                We would like to hear from us, if it is a compliment, a donation  to help us do better we would be more than glad 
-                to hear from you. We also accept useful information to help get better.
+                Order or send us your feedback
             </p>
             <ul>
-                <li><img src={mail_icon} alt="" /> Contact@ebimela.dev</li>
+                <li><img src={mail_icon} alt="" /> Contact@flavishHampers.com</li>
                 <li><img src={phone_icon} alt="" /> +256 751 123 456</li>
-                <li><img src={location_icon} alt="" /> Kamuli, Jinja, <br/>Uganda</li>
+                <li><img src={location_icon} alt="" /> Kampala, Uganda</li>
             </ul>
         </div>
         <div className="contact-col">

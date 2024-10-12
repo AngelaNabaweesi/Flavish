@@ -12,12 +12,11 @@ const About = ({setPlayState}) => {
                 {setPlayState(true)}}/>
         </div>
         <div className="about-right">
-            <h3>ABOUT NEWHOPE NURSERY AND PRIMARY SCHOOL</h3>
-            <h2>Saving the future by serving today</h2>
-            <p>We give new hope to not only children but also to parents who cannot abily support their 
-                children to go to school.
-                We started the school in 2015 with 20 pupils and to current date the numbers are growing to over
-                200 pupils.                
+            <h3>ABOUT FLAVISH </h3>
+            <h2>Do it lavishly</h2>
+            <p>At Flavish, we craft unforgettable moments with our exquisite décor, unique gifts, 
+                and vibrant floral arrangements. Whether you're celebrating a special occasion or adding elegance to everyday life, 
+                our attention to detail and passion for beauty ensure every creation leaves a lasting impression of grace and sophistication.               
             </p>
             {/* <p>What keeps us going is seeing the children achieve more through high performances in school. Our school
                 got 2 first grades in Primary Leaving exams. This is an achievement because we have very few staff. 

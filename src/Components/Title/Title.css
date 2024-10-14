@@ -1,6 +1,7 @@
 .title{
     text-align: center;
-    color: #212EA0;
+    /* color: #212EA0; */
+    color: #b28228;
     font-size: 15px;
     font-weight: 600;
     margin: 70px 0 30px;
@@ -8,7 +9,8 @@
 
 .title h2 {
     font-size: 32px;
-    color: #000F38;
+    /* color: #000F38; */
+    color: #1c1c1c;
     margin-top: 5px;
     text-transform: none;
 

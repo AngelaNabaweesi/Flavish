@@ -35,7 +35,8 @@ a{
     justify-content: center;
 }
 .btn.dark-btn{
-    background: #212EA0;
+    /* background: #212EA0; */
+    background: #b28228;
     color: #fff;
 }
 

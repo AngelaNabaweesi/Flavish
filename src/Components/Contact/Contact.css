@@ -8,11 +8,13 @@
 
 .contact-col{
     flex-basis: 48%;
-    color: #676767;
+    /* color: #676767; */
+    color: #3b3b3b;
 }
 
 .contact-col h3{
-    color: #000F38;
+    /* color: #000F38; */
+    color: #1c1c1c;
     font-weight: 500;
     font-size: 25px;
     display: flex;
@@ -47,6 +49,7 @@
     display: block;
     width: 100%;
     background: #EBECFE;
+    /* background: #3b3b3b; */
     padding: 15px;
     border: 0;
     outline: 0;

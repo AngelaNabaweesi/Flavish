@@ -33,7 +33,7 @@ nav ul li {
 }
 
 .dark-nav{
-    background: #212EA0;
+    background: #b28228;
     transition: 0.5s;
 }
 .menu-icon{
@@ -60,7 +60,8 @@ nav ul li {
         top: 0;
         right: 0;
         bottom: 0;
-        background: #212EA0;
+        /* background: #212EA0; */
+        background: #b28228; 
         z-index: -1;
         width: 200px;
         padding-top: 70px;
